@@ -1,0 +1,6 @@
+P001,Torta de Chocolate,3.000
+P002,Torta de Vainilla,2.500
+P003,Torta de Banano,3.500
+P004,Torta de Naranja,2.800
+P005,Torta de Zanahoria,3.800
+P006,Coca Cola,4.000
